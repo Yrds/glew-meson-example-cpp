@@ -10,9 +10,9 @@ I made this project to show how meson is simple and easy.
 
 In 3 easy commands you can run this program
 
-`meson setup build`
-`meson compile -C build`
-`./build/glew_meson_example`
+- `meson setup build`
+- `meson compile -C build`
+- `./build/glew_meson_example`
 
 ## Authoring
 
