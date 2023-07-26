@@ -14,6 +14,10 @@ In 3 easy commands you can run this program
 - `meson compile -C build`
 - `./build/glew_meson_example`
 
+You should see a window like this:
+
+![Glew Meson example running]("./example.png")
+
 ## Authoring
 
 No need to mention my name or this repository in projects using this code.
