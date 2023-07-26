@@ -16,7 +16,7 @@ In 3 easy commands you can run this program
 
 You should see a window like this:
 
-![Glew Meson example running]("./example.png")
+![Glew Meson example running](./example.png)
 
 ## Authoring
 
